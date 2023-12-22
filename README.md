@@ -34,8 +34,7 @@
 
   ### Connect with me:
 [![LinkedIn][linkedin-shield]][linkedin-url]
-- Email: [mostafa0106266@gmail.com]
-
+[![Gmail][gmail-shield]][gmail-url]
   
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -46,6 +45,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=Postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
 ![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -54,8 +55,10 @@
 
 <!-- Links to your social media accounts -->
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=black
 [linkedin-url]: https://www.linkedin.com/in/mostafa-mohamed-57443a1a3/
+[gmail-shield]: https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white
+[gmail-url]: mailto:mostafa0106266@gmail.com
 
 Feel free to take a look at my repositories and don't hesitate to connect with me!
 
