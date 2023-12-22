@@ -27,16 +27,36 @@
 - **Python Pro Bootcamp (Udemy, 2023)**
 - **eJPTv1 Certification (2023)**
 
-#### 🌐 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/mostafa-mohamed-57443a1a3/]
-- Email: [mostafa0106266@gmail.com]
-
 #### 🔍 Current Interests
 - **Developing:** Innovative back-end solutions with Django
 - **Exploring:** Advanced Network Security Technologies
 - **Learning:** Cloud Infrastructure and Advanced DevOps Practices
 
+  ### Connect with me:
+[![LinkedIn][linkedin-shield]][linkedin-url]
+- Email: [mostafa0106266@gmail.com]
+
   
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=Postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+
+<!-- Links to your social media accounts -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/mostafa-mohamed-57443a1a3/
+
 Feel free to take a look at my repositories and don't hesitate to connect with me!
 
 ---
