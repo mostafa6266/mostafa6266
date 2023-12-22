@@ -37,21 +37,22 @@
 [![Gmail][gmail-shield]][gmail-url]
   
 ### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=Postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://www.python.org)
+[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)](https://www.djangoproject.com)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)](https://expressjs.com)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=Postgresql)](https://www.postgresql.org)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)](https://kubernetes.io)
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)](https://aws.amazon.com)
+[![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)](https://www.nginx.com)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com)
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)](https://www.linux.org)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
 
 <!-- Links to your social media accounts -->
 
