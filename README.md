@@ -1,6 +1,9 @@
-# Mostafa Mohamed – Backend Developer | Network Security Engineer
+
+
+# Mostafa Mohamed – Backend Developer Django , FastAPI
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Passionate+Backend+Developer;Cyber+Security+Engineer;Loves+Python+%26+Django)
 
 ## 🖊️ Profile
 Passionate **Python Developer** specializing in **Django** and **FastAPI**, with strong expertise in backend development, API architecture, and high-performance web applications.  
@@ -56,7 +59,6 @@ Dedicated to delivering robust solutions through deep technical expertise and be
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
@@ -78,7 +80,7 @@ Dedicated to delivering robust solutions through deep technical expertise and be
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=black
 [linkedin-url]: https://www.linkedin.com/in/mostafa-mohamed-57443a1a3/
 [gmail-shield]: https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white
-[gmail-url]: mailto:mostafa0106266@gmail.com
+[gmail-url]: mailto:m.mostafa.dev@gmail.com
 
 Feel free to take a look at my repositories and don't hesitate to connect with me!
 
