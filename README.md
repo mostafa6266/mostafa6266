@@ -1,58 +1,77 @@
-### Hi there, I'm Mostafa Mohamed 👋
+# Mostafa Mohamed – Backend Developer | Network Security Engineer
 
-#### 🎓 About Me
-- **Computer Science Graduate (2022)** from Pharaohs Academy
-- Passionate **Django Back-End Developer** and **Network Security Engineer**
-- Proficient in **Python with a strong foundation in OOP and data structures**
-- Enthusiast in **Full Stack Development** and **Cybersecurity**
-- Skilled in **integrating network infrastructure with programming solutions**
-- Continuously learning and expanding my skillset
+---
 
-#### 💻 Technical Skills
-- **Languages:** Python (including OOP and Data Structures), JavaScript, C# (including OOP and Data Structures)
-- **Web Development:** Django, Flask, Node.js, Express.js, HTML, CSS, ASP.NET
-- **Database Management:** PostgreSQL
-- **DevOps Tools:** Docker, Kubernetes, NGINX, AWS
-- **Version Control:** Proficient in Git and GitHub
-- **Operating Systems:** Advanced skills in Linux Administration and Ubuntu
+## 🖊️ Profile
+Passionate **Python Developer** specializing in **Django** and **FastAPI**, with strong expertise in backend development, API architecture, and high-performance web applications.  
+Experienced in **server management**, **web server optimization**, and **cloud deployment**. Skilled in implementing **asynchronous systems** using **Kafka**, **RabbitMQ**, and **Celery**.  
+Proficient in **database design**, **data analysis**, **web security**, and building **secure, scalable, and maintainable applications**.  
+Dedicated to delivering robust solutions through deep technical expertise and best practices in **software engineering** and **system architecture**.
 
-#### 🛠️ Certifications & Courses
-- **Cyber Security Diploma (IT Gate Academy, 2020)**
-- **Cisco Certified Network Associate (CCNA):** Routing and Switching, Security
-- **Microsoft Certified Solutions Associate (MCSA)**
-- **Certified Ethical Hacker (CEH)**
-- **VMware ESXi & vSphere (2021)**
-- **CCNP:** Encore, Security SCOR 350-701, Security 300-710 SNCF, Security SISE 300-715
-- **Palo Alto Firewall (Udemy, 2022)**
-- **Python Pro Bootcamp (Udemy, 2023)**
-- **eJPTv1 Certification (2023)**
+---
 
-#### 🔍 Current Interests
-- **Developing:** Innovative back-end solutions with Django
-- **Exploring:** Advanced Network Security Technologies
-- **Learning:** Cloud Infrastructure and Advanced DevOps Practices
+## 🛠️ Technical Skills
 
-  ### Connect with me:
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Gmail][gmail-shield]][gmail-url]
-  
-### Languages and Tools:
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://www.python.org)
-[![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)](https://www.djangoproject.com)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)](https://expressjs.com)
-[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=Postgresql)](https://www.postgresql.org)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)](https://www.docker.com)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)](https://kubernetes.io)
-[![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)](https://aws.amazon.com)
-[![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)](https://www.nginx.com)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com)
-[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)](https://www.linux.org)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
+- **Programming Languages:** Python, C++, JavaScript
+- **Backend Development:** Django, Django REST Framework, FastAPI, Flask, Node.js
+- **API Development & Authentication:** RESTful API Design, JWT, OAuth2 Authentication
+- **ORM & Database Libraries:** Django ORM, SQLAlchemy
+- **Frontend Development:** HTML, CSS, React.js
+- **Database Management:** PostgreSQL, MySQL, SQL Server, MongoDB
+- **Data Analysis:** NumPy, pandas
+- **Web Server Management:** NGINX Configuration, Web Security, Performance Optimization
+- **Cloud & Hosting:** AWS, Cloudflare, GoDaddy, Hostinger
+- **DevOps & Tools:** Docker, Shell Scripting, Git & GitHub, CI/CD Pipelines
+- **Message Brokers & Task Queues:** Apache Kafka, RabbitMQ, Celery, Async Event Handling, Consumer Groups
+- **Web Application Security:** CSRF, XSS, SQL Injection Prevention, Secure API & Sessions, SSL/TLS, Secure HTTP Headers, WAF
+- **Access Control & Authentication:** Role-Based Access Control (RBAC), Multi-Factor Authentication (MFA), Security Monitoring
+
+---
+
+## 📚 Certifications
+
+- **Cyber Security Diploma** – IT Gate Academy (2020)
+- **Certified Ethical Hacker (CEH)** – EC-Council
+- **CCNA Routing and Switching** – Cisco
+- **CCNA Security** – Cisco
+- **MCSA (Microsoft Certified Solutions Associate)** – Microsoft
+- **Python for Data Science** – IBM
+- **eJPTv1 (Junior Penetration Tester)** – INE
+
+---
+
+## 📚 Projects & Courses
+
+- **Docker & Kubernetes** – Udemy
+- **Python Pro Bootcamp 2023** – Udemy
+- **Linux Shell Scripting** – Udemy
+- **Programando en Python. Algoritmos** – IBM
+
+---
+
+## 📚 Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=Postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=Cloudflare)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
+![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=celery)
+![React.js](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+
+---
 
 <!-- Links to your social media accounts -->
 
