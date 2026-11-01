@@ -1,87 +1,72 @@
+<h1 align="center">Mostafa Mohamed</h1>
 
+<p align="center">
+  <strong>Senior Software Engineer</strong><br>
+  Software Architecture &nbsp;|&nbsp; Distributed Systems &nbsp;|&nbsp; Blockchain &amp; DeFi
+</p>
 
-# Mostafa Mohamed – Backend Developer Django , FastAPI
-
----
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Passionate+Backend+Developer;Cyber+Security+Engineer;Loves+Python+%26+Django)
-
-## 🖊️ Profile
-Passionate **Python Developer** specializing in **Django** and **FastAPI**, with strong expertise in backend development, API architecture, and high-performance web applications.  
-Experienced in **server management**, **web server optimization**, and **cloud deployment**. Skilled in implementing **asynchronous systems** using **Kafka**, **RabbitMQ**, and **Celery**.  
-Proficient in **database design**, **data analysis**, **web security**, and building **secure, scalable, and maintainable applications**.  
-Dedicated to delivering robust solutions through deep technical expertise and best practices in **software engineering** and **system architecture**.
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming Languages:** Python, C++, JavaScript
-- **Backend Development:** Django, Django REST Framework, FastAPI, Flask, Node.js
-- **API Development & Authentication:** RESTful API Design, JWT, OAuth2 Authentication
-- **ORM & Database Libraries:** Django ORM, SQLAlchemy
-- **Frontend Development:** HTML, CSS, React.js
-- **Database Management:** PostgreSQL, MySQL, SQL Server, MongoDB
-- **Data Analysis:** NumPy, pandas
-- **Web Server Management:** NGINX Configuration, Web Security, Performance Optimization
-- **Cloud & Hosting:** AWS, Cloudflare, GoDaddy, Hostinger
-- **DevOps & Tools:** Docker, Shell Scripting, Git & GitHub, CI/CD Pipelines
-- **Message Brokers & Task Queues:** Apache Kafka, RabbitMQ, Celery, Async Event Handling, Consumer Groups
-- **Web Application Security:** CSRF, XSS, SQL Injection Prevention, Secure API & Sessions, SSL/TLS, Secure HTTP Headers, WAF
-- **Access Control & Authentication:** Role-Based Access Control (RBAC), Multi-Factor Authentication (MFA), Security Monitoring
+<p align="center">
+  Cairo, Egypt<br>
+  <a href="https://www.linkedin.com/in/mostafa-mohamed-57443a1a3/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:m.mostafa.dev@gmail.com">Email</a>
+</p>
 
 ---
 
-## 📚 Certifications
+I'm a senior software engineer with **5+ years of experience** building backend systems across fintech, digital identity, blockchain, transportation, and healthcare.
 
-- **Cyber Security Diploma** – IT Gate Academy (2020)
-- **Certified Ethical Hacker (CEH)** – EC-Council
-- **CCNA Routing and Switching** – Cisco
-- **CCNA Security** – Cisco
-- **MCSA (Microsoft Certified Solutions Associate)** – Microsoft
-- **Python for Data Science** – IBM
-- **eJPTv1 (Junior Penetration Tester)** – INE
+My work connects **system design with production engineering**: defining service boundaries, building APIs and data pipelines, improving performance, and supporting the infrastructure behind them. I work primarily with Python, Rust, and TypeScript, using each where it fits the system's requirements.
 
----
+## Software architecture & engineering
 
-## 📚 Projects & Courses
+- **System design:** Backend architecture, microservices, and event-driven systems with clear service boundaries and explicit API contracts.
+- **Distributed workflows:** Asynchronous processing, messaging, background jobs, and real-time communication through WebSockets and gRPC.
+- **Data & performance:** Database indexing, query optimization, Redis caching, and Rust components for performance-critical processing.
+- **Security & identity:** Authentication, authorization, role-based access control, transaction validation, and audit logging.
+- **Production operations:** Cloud deployments, containerized services, CI/CD, monitoring, and troubleshooting across application and infrastructure layers.
 
-- **Docker & Kubernetes** – Udemy
-- **Python Pro Bootcamp 2023** – Udemy
-- **Linux Shell Scripting** – Udemy
-- **Programando en Python. Algoritmos** – IBM
+## Blockchain & DeFi infrastructure
 
----
+I build the services that collect blockchain data, turn it into market information, and support automated trading.
 
-## 📚 Languages and Tools
+- **Solana infrastructure:** RPC integrations, on-chain transaction analysis, and real-time ingestion of swap, token, and liquidity data.
+- **Market data:** DEX pricing services and aggregation pipelines backed by ClickHouse, MongoDB, and Redis.
+- **Trading systems:** Infrastructure for grid and arbitrage strategies across centralized and decentralized exchanges.
+- **Data quality:** Transaction analysis and wash-trading detection to identify suspicious activity and improve market metrics.
+- **Performance:** Rust for critical processing paths; Python for ingestion, automation, and supporting services.
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=Postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=Cloudflare)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
-![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=celery)
-![React.js](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+## Systems I've worked on
 
----
+| Domain | Engineering work |
+| --- | --- |
+| Digital identity | E-KYC, E-KYB, OCR, document verification, sanctions screening, and secure API integrations |
+| Fintech | Digital wallets, payment integrations, transaction validation, and audit trails |
+| Real-time platforms | Ride booking, driver matching, live location updates, chat, and notifications |
+| Infrastructure automation | Network monitoring, device configuration, connectivity diagnostics, and operational tooling |
 
-<!-- Links to your social media accounts -->
+## Technical toolkit
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=black
-[linkedin-url]: https://www.linkedin.com/in/mostafa-mohamed-57443a1a3/
-[gmail-shield]: https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white
-[gmail-url]: mailto:m.mostafa.dev@gmail.com
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, Rust, Go, TypeScript, JavaScript, C++, Bash |
+| Backend | Django, FastAPI, NestJS, Node.js, Axum |
+| Interfaces | REST, WebSockets, gRPC |
+| Data & caching | PostgreSQL, MySQL, MongoDB, ClickHouse, Redis |
+| Messaging | RabbitMQ, Apache Kafka, Redis Streams, Celery |
+| Cloud & infrastructure | AWS, GCP, Cloudflare, Docker, Kubernetes, NGINX, Linux |
+| Observability & delivery | Prometheus, Grafana, OpenTelemetry, GitHub Actions, GitLab CI |
+| Security | OAuth 2.0, JWT, RBAC, TLS/mTLS, rate limiting |
 
-Feel free to take a look at my repositories and don't hesitate to connect with me!
+## Engineering approach
+
+I contribute to technical design, translate requirements into implementation plans, review code, and mentor junior and mid-level engineers.
+
+I value clear tradeoffs, maintainable code, and designs that hold up in production. My background in networking and infrastructure shapes how I approach software: the API, database, message broker, and deployment all belong to the same system.
 
 ---
+
+<p align="center">
+  Open to conversations about software architecture, backend engineering, and blockchain infrastructure.<br>
+  <a href="https://www.linkedin.com/in/mostafa-mohamed-57443a1a3/">Let's connect</a>
+</p>
