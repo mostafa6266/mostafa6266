@@ -1,36 +1,59 @@
 # Mostafa Mohamed
 
-**Senior Software Engineer**
+**Architecture is the craft. Performance is the obsession.**
 
-Software Architecture · Distributed Systems · Blockchain & DeFi
+`Software Architecture` · `Distributed Systems` · `Blockchain & DeFi`
 
 Cairo, Egypt · [LinkedIn](https://www.linkedin.com/in/mostafa-mohamed-57443a1a3/) · [Email](mailto:m.mostafa.dev@gmail.com)
 
-I design and build backend platforms and blockchain infrastructure. Over the past five years, I've worked on identity verification, financial workflows, real-time applications, and automated trading systems.
+---
 
-I work mainly in Python, Rust, and TypeScript, from initial system design through implementation and production support. Code reviews and mentoring are a regular part of my work.
+### Beyond the happy path
 
-## Software architecture
+Five years working across backend platforms, identity verification, financial infrastructure, and blockchain systems.
 
-My backend work includes identity verification services, payment integrations, digital wallets, and real-time booking and messaging systems. I've designed APIs, built authentication and access-control flows, and worked on the data models and background processing behind them.
+The interesting challenges rarely sit inside a single function. They appear between services, across database boundaries, under concurrent load, or when an external dependency stops behaving as expected.
 
-I pay particular attention to service boundaries, database behavior, and communication between services. Much of my performance work involves query plans, indexing, caching, and moving expensive operations out of the request path. Where processing speed matters, I've built Rust components alongside Python services.
+### Architecture
 
-I started in network automation. That background still helps when a problem crosses application code, deployment, and infrastructure.
+Service boundaries, data ownership, authentication, authorization, and communication between services.
 
-## Blockchain & trading infrastructure
+The difficult part isn't choosing between microservices and a modular monolith. It's deciding which responsibilities belong together, which need isolation, and how the system maintains consistency without unnecessary coupling.
 
-I work on Solana infrastructure for market data, transaction analysis, and automated trading. This includes collecting swap and transaction data, aggregating prices and liquidity across DEXs, and building services around that data.
+Architecture should make the system easier to understand, change, and operate, not simply introduce more components.
 
-I've worked on grid and arbitrage systems across centralized and decentralized exchanges, along with transaction analysis and wash-trading detection. The underlying pipelines use ClickHouse, MongoDB, and Redis, with Rust for critical processing paths and Python for ingestion and automation.
+### Performance
 
-## Stack
+Query plans, indexing, caching, asynchronous processing, concurrency, and profiling.
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Python, Rust, TypeScript, Go |
-| Services | Django, FastAPI, NestJS, Node.js, Axum, REST, WebSockets, gRPC |
-| Data | PostgreSQL, ClickHouse, MongoDB, Redis |
-| Messaging | Kafka, RabbitMQ, Redis Streams, Celery |
-| Infrastructure | AWS, GCP, Docker, Kubernetes, NGINX, Linux |
-| Observability | Prometheus, Grafana, OpenTelemetry |
+Most performance improvements start by understanding where time and resources are actually spent. Sometimes that means removing database round trips or reducing unnecessary work. Other times, it means changing an execution path.
+
+Python for backend services and data pipelines. Rust for processing paths where profiling justifies the added complexity.
+
+### Reliability
+
+Distributed systems fail in ways that aren't always obvious.
+
+A request can time out after succeeding. A message can be delivered twice. A worker can restart halfway through a job. An external provider can become unavailable while everything else remains healthy.
+
+Retries, idempotency, timeouts, backpressure, recovery, and observability are part of the design, not additions after deployment.
+
+### Blockchain & DeFi
+
+Solana-based infrastructure for market data, on-chain transaction analysis, and automated trading.
+
+Work includes DEX integrations, liquidity and price aggregation, grid trading, arbitrage engines, and transaction analysis.
+
+The engineering challenges revolve around event freshness, execution latency, transaction construction, large-scale data processing, and the reliability of systems operating against constantly changing market conditions.
+
+### Selected technologies
+
+`Python` · `Rust` · `TypeScript` · `Go`
+
+`Django` · `FastAPI` · `PostgreSQL` · `Redis` · `ClickHouse`
+
+`RabbitMQ` · `Kafka` · `Docker` · `AWS` · `Linux`
+
+---
+
+*Make it work. Understand why it works. Know how it fails.*
